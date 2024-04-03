@@ -5,9 +5,9 @@
   <br>  `error` because it doesn't move us to the specified file directory<br>
 
 #"ls" list:  <br>
-1: ![image](4lab1.png)  <br> Absolute Path: C:/Users/theso/lecture1  <br> `NOT` an error  <br>
-2: ![image](5lab1.png)  <br> Absolute Path: C:/Users/theso/lecture1  <br> `NOT` an error  <br>
-3: ![image](6lab1.png)  <br> Absolute Path: C:/Users/theso/lecture1  <br> `NOT` an error  <br>
+1: ![image](4lab1.png)  <br> Absolute Path: C:/Users/theso/lecture1  <br> ls lists everything in the lecture1 folder(containing Hello.class, Hello.java...) and it does so sucessfully <br> `NOT` an error  <br>
+2: ![image](5lab1.png)  <br> Absolute Path: C:/Users/theso/lecture1  <br> ls with provided path to messages folder, lists everything in the text folder(containing en-us.txt, es-mx.txt...) and does so exhaustively <br> `NOT` an error  <br>
+3: ![image](6lab1.png)  <br> Absolute Path: C:/Users/theso/lecture1<br> ls provided a specific path lists everything at this specific file, in this case it is en-us.txt, because it is provided a specific file, ls lists the specific file <br> `NOT` an error  <br>
 
 
 #"cat" meow:  <br>
