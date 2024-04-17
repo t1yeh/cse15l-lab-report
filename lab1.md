@@ -15,5 +15,5 @@
 #"cat" :  
 
 1: ![image](7lab1.png)  <br> Absolute Path: `C:/Users/theso/lecture1`  <br> `cat` with 0 arguments just returns any string you input <br> `not` exactly an error, `cat` will just run in an loop where it will return any standard input. <br>
-2: ![image](8lab1.png)  <br> Absolute Path: `C:/Users/theso/lecture1`  <br>  a directory file cannot be read as a text file. <br> `error` because a directory file itself cannot be read. <br>
+2: ![image](8lab1.png)  <br> Absolute Path: `C:/Users/theso/lecture1`  <br>  a directory cannot be read as a text file. <br> `error` because a directory itself cannot be read. <br>
 3: ![image](9lab1.png)  <br> Absolute Path: `C:/Users/theso/lecture1`  <br> `cat` sucessfuly reads the textfile and prints the string within the textfile `NOT` an error  <br>
